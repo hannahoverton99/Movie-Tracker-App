@@ -1,0 +1,6 @@
+Movie Tracker Planning:
+
+Models:
+-User.cs
+-Home.cs
+-Entry.cs
